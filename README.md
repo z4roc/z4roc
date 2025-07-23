@@ -1,6 +1,6 @@
 ## Hi there, I'm Arthur aka Zaroc 👋
 
-I do stupd or sometimes helpful apps next to studying or working :)
+I do stupid or sometimes helpful apps next to studying or working :)
 
 My prefered Technologies:
 
