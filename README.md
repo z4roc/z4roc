@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/306868044276432901)](https://discord.com/users/306868044276432901)
 <!--
 **z4roc/z4roc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
