@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316jpwbosrw7vxrzt4q2vn6dzqiu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316jpwbosrw7vxrzt4q2vn6dzqiu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=5900ff&bar_color_cover=false)]]
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/306868044276432901)](https://discord.com/users/306868044276432901)
 <!--
