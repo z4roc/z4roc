@@ -3,7 +3,7 @@
 <img width="838" height="325" alt="Mindscape_Hoshimi_Miyabi_Default_trim" src="https://github.com/user-attachments/assets/478fe093-b55a-4da8-9f34-a21c6b18ccab" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-aktamirov/)
-[![X (Twitter)](https://img.shields.io/badge/Folge_mir_auf_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zaroc_dev)
+[![X (Twitter)](https://img.shields.io/badge/Follow_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zaroc_dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthur.rza)
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-5865F2?style=for-the-badge)](https://zaroc.de)
 
