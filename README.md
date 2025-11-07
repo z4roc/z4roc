@@ -41,6 +41,8 @@ In my free time I develop web applications and mobile apps with Flutter, NextJS 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=z4roc&color=blueviolet)
 
+![MiyabiRunZzzGIF](https://github.com/user-attachments/assets/fae88394-8282-4c03-86ee-fe3b0b6334ad)
+
 
 <!--
 **z4roc/z4roc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
